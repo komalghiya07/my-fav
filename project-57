@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="english">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My hobbies</title>
+</head>
+
+<body>
+  <section id="welcome"
+  <div class="parrallax inner">
+  <img src="https://www.thesprucecrafts.com/thmb/4krlR_ONU4EDXKbCb8FCWFkz--Y=/2121x1414/filters:fill(auto,1)/GettyImages-922707682-5b90467bc9e77c0025931eef.jpg" class="profile"/>
+  <h1>I AM<br><span id=name>my hobbies</span></h1>
+  <h2>Painting</h2>
+  </div>
+  </section>
+</body>
+</html>
+<section id="bio">
+<h1>Hi!</h1>
+<div class="line"></div>
+<p>My name is Aradhya Ghiya.I am 8 years old.My hobbie is to paint.I study in St Xaviers high school Loyola hall.I like to here English songs.My mother name is Richa,father name is Raman and my sister name is Komal.She also does coding.When I grow up I want to be a school teacher.My best friend name is Ritwa and Zoe.I live in Ahemdabad.My faviourate food is Noodles.I like to go down and play.</p.
+</section>
